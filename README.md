@@ -1,31 +1,18 @@
-🚀 VidGenie AI
-AI Content Creator – Image ➜ Video Generator
-VidGenie AI is a full-stack AI content creation platform built with the MERN stack and TypeScript.
-It allows users to upload an image, add a prompt, and generate AI-powered videos automatically. The platform also includes a real-time AI chat interface with message history.
-This project demonstrates modern full-stack development practices, including React routing, real-time UI interaction, backend API design, and MongoDB data storage.
-📸 Preview
-Copy code
-
-User Prompt → Upload Image → AI Processing → Video Generated
-Example prompt:
-Copy code
-
-"A man walking in anime style"
-Output:
-Copy code
-
-AI Generated Video
-🧠 Key Features
-✅ AI Content Generation
-✅ Image Upload System
-✅ Image → Video Conversion
-✅ AI Chat Interface
-✅ Chat History Storage
-✅ Typing Animation
-✅ Auto Scroll Chat
-✅ Responsive UI
-✅ MongoDB Database
-✅ Message Limit Optimization
+VidGenie AI is a modern AI content creator platform built using the MERN Stack with TypeScript.
+It allows users to chat with an AI assistant and generate creative content like Image → Video animations.
+The project demonstrates full-stack development, API integration, modern UI design, and database management.
+📸 Application Preview
+�
+AI Chat interface with sidebar navigation and responsive layout.
+✨ Features
+💬 AI Chat Interface
+📜 Chat History System
+⚡ Real-time Typing Indicator
+📱 Fully Responsive UI
+🗂 MongoDB Data Storage
+🎬 Image → Video Generation Concept
+🔄 Auto Scroll Chat Messages
+🧠 Smart Bot Responses
 🛠 Tech Stack
 Frontend
 React
@@ -39,10 +26,7 @@ Node.js
 Express.js
 MongoDB
 Mongoose
-Development Tools
+Tools
 Git
 GitHub
 REST APIs
-JSON
-
-
