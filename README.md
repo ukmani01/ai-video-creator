@@ -44,30 +44,5 @@ Git
 GitHub
 REST APIs
 JSON
-📂 Project Architecture
-Copy code
 
-VidGenie-AI
-│
-├── client
-│   ├── src
-│   │
-│   ├── assets
-│   │   ├── Navbars
-│   │   │   └── Navbar.tsx
-│   │   │
-│   │   └── components
-│   │       ├── NewChat.tsx
-│   │       └── History.tsx
-│   │
-│   ├── App.tsx
-│   └── main.tsx
-│
-├── server
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   ├── middleware
-│   └── server.ts
-│
-└── README.md
+
